@@ -1,0 +1,25 @@
+{
+    "name": "b2w",
+    "version": "1.0.0",
+    "description": "Desafio vaga front-end B2w Digital",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "nodemon index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/MatheusGrundler/DesafioB2wDigital.git"
+    },
+    "author": "Matheus Grundler",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/MatheusGrundler/DesafioB2wDigital/issues"
+    },
+    "homepage": "https://github.com/MatheusGrundler/DesafioB2wDigital#readme",
+    "dependencies": {
+        "cheerio": "^1.0.0-rc.3",
+        "express": "^4.17.1",
+        "request": "^2.88.0"
+    }
+}
